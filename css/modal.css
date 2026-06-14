@@ -29,6 +29,21 @@
             /* Style to look more like the popup in the video */
             border-left: 5px solid #aaa; /* Red/Orange sidebar */
         }
+@media (max-width: 36.875em) {
+         .modal-content {
+            /* Center the box */
+            background-color: #0c5b21;
+            margin: 5% auto; /* 5% from the top for a higher placement */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 90%; 
+            max-width: 600px; 
+            border-radius: 8px;
+            box-box-shadow: inset 0 4px 12px rgba(0, 0, 0, 0.3);
+            /* Style to look more like the popup in the video */
+            border-left: 0px solid #aaa; /* Red/Orange sidebar */
+        }
+}
         
         .modal-content h2 {
             color: #d9534f;
