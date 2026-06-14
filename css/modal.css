@@ -40,8 +40,6 @@
             max-width: 600px; 
             border-radius: 8px;
             box-box-shadow: inset 0 4px 12px rgba(0, 0, 0, 0.3);
-            /* Style to look more like the popup in the video */
-            border-left: 0px solid #aaa; /* Red/Orange sidebar */
         }
 }
         
