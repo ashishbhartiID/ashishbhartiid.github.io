@@ -101,6 +101,9 @@ strong {
             gap: 16px;
             margin-bottom: 40px;
         }
+a {
+    color: white;
+}
 *****************************************
 
 .links-wrapper {
