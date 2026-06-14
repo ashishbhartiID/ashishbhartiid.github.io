@@ -6,6 +6,16 @@ body {
       padding: 0;
       text-align: center;
     }
+@media (max-width: 36.875em) {
+body {
+      font-family: auto;
+      background: #0c5b21;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    } 
+}
 .container {
       max-width: 500px;
       margin: 0 auto;
@@ -101,6 +111,6 @@ strong {
         }
 
 a.link-btn {
-    box-shadow: 0 0 5px #ffffff;
+    box-shadow: 0 0 5px #000000;
 }
 
