@@ -38,7 +38,7 @@ strong {
     }
 .link-btn {
     background: linear-gradient(135deg, #ffffff78, #ffffff78);
-        color: #000000;
+    color: #000000;
     text-decoration: none;
     font-size: 16px;
     font-weight: 500;
@@ -61,7 +61,7 @@ strong {
     }
 .social-icons a:hover {
       transform: scale(1.2);
-      color: #0b69ff;
+      color: #000000;
     }
 .disclaimer {
     margin-top: 20px;
@@ -74,7 +74,7 @@ hr {
     margin-left: 10px;
     margin-right: 10px;
 }
-*****************************************
+
 
 .links-wrapper {
             display: flex;
