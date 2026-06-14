@@ -84,6 +84,13 @@ strong {
     margin-right: 25px;
       }
 }
+
+.links {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            margin-bottom: 40px;
+        }
 *****************************************
 
 .links-wrapper {
