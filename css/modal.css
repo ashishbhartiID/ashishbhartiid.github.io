@@ -19,7 +19,7 @@
         .modal-content {
             /* Center the box */
             background-color: #0c5b21;
-            margin: 5% auto; /* 5% from the top for a higher placement */
+            margin: 2% auto; /* 2% from the top for a higher placement */
             padding: 20px;
             border: 1px solid #888;
             width: 90%; 
